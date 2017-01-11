@@ -1,0 +1,15 @@
+{
+    "name": "roshan-log",
+    "author": {
+        "name": "Hao Zhigang"
+    },
+    "description": "loggerWrapper for log4js",
+    "version": "0.0.1",
+    "main": "./logger.js",
+    "_id": "roshan-log@0.0.1",
+    "_from": "roshan-log@*",
+    "dependencies": {
+        "log4js": "0.6.20",
+        "stack-json": "0.1.3"
+    }
+}
